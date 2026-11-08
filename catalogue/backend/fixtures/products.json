@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Orbit Wireless Headphones",
+    "price": 89.99,
+    "description": "Comfort-fit wireless headphones with clear audio, soft ear cushions and all-day battery life.",
+    "category": "electronics",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.9,
+      "count": 218
+    }
+  },
+  {
+    "id": 2,
+    "title": "Everyday Canvas Backpack",
+    "price": 54.5,
+    "description": "A durable everyday backpack with a padded laptop sleeve and practical internal pockets.",
+    "category": "men's clothing",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.8,
+      "count": 180
+    }
+  },
+  {
+    "id": 3,
+    "title": "Minimal Ceramic Desk Lamp",
+    "price": 42.0,
+    "description": "A warm, understated desk lamp for focused reading and work.",
+    "category": "home & living",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.8,
+      "count": 142
+    }
+  },
+  {
+    "id": 4,
+    "title": "Precision Wireless Mouse",
+    "price": 34.95,
+    "description": "An ergonomic wireless mouse with responsive tracking for everyday productivity.",
+    "category": "electronics",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.7,
+      "count": 96
+    }
+  },
+  {
+    "id": 5,
+    "title": "Cotton Everyday Shirt",
+    "price": 39.0,
+    "description": "A breathable cotton shirt with a clean silhouette and versatile styling.",
+    "category": "men's clothing",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.6,
+      "count": 130
+    }
+  },
+  {
+    "id": 6,
+    "title": "Compact Bluetooth Speaker",
+    "price": 59.0,
+    "description": "Portable Bluetooth speaker with balanced sound and a compact footprint.",
+    "category": "electronics",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.4,
+      "count": 80
+    }
+  },
+  {
+    "id": 7,
+    "title": "Linen Cushion Cover",
+    "price": 18.0,
+    "description": "Textured linen-blend cushion cover for a calm, natural living space.",
+    "category": "home & living",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.3,
+      "count": 55
+    }
+  },
+  {
+    "id": 8,
+    "title": "Classic Leather Wallet",
+    "price": 29.0,
+    "description": "A slim wallet with practical card storage and a timeless finish.",
+    "category": "men's clothing",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.2,
+      "count": 42
+    }
+  },
+  {
+    "id": 9,
+    "title": "Studio USB-C Hub",
+    "price": 47.5,
+    "description": "A compact multi-port USB-C hub for connecting displays, storage and everyday desk accessories.",
+    "category": "electronics",
+    "image": "/images/product-placeholder.svg",
+    "rating": {
+      "rate": 4.0,
+      "count": 35
+    }
+  }
+]

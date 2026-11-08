@@ -1,0 +1,22 @@
+{
+  "name": "catalogue-testgen",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+  "testgen": "tsx src/run.ts",
+  "testgen:check": "tsx src/run.ts --check",
+  "testgen:e2e": "node --env-file=.env.gemini --import tsx src/run.ts && node --env-file=.env.gemini --import tsx src/run.ts --check && npm --prefix ../../e2e test -- tests/generated --config playwright.config.ts",
+  "test": "vitest run",
+  "typecheck": "tsc --noEmit"
+},
+  "dependencies": {
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}
