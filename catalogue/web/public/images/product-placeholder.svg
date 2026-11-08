@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" role="img" aria-label="Product image placeholder">
+  <rect width="600" height="500" rx="30" fill="#eeece5"/>
+  <circle cx="300" cy="235" r="112" fill="#e1ebe4"/>
+  <path d="M240 250c0-34 27-61 60-61s60 27 60 61v53H240z" fill="#315c4d" opacity=".88"/>
+  <path d="M260 185l40-33 40 33" fill="none" stroke="#315c4d" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="300" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#70766e">NORTHSTAR</text>
+</svg>
